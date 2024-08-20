@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\OnlineHotelManagement\HotelManagementSystem.DAL\bin\Debug\HotelManagementSystem.DAL.dll
+C:\Users\Administrator\source\repos\OnlineHotelManagement\HotelManagementSystem.DAL\bin\Debug\HotelManagementSystem.DAL.pdb
+C:\Users\Administrator\source\repos\OnlineHotelManagement\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OnlineHotelManagement\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OnlineHotelManagement\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.dll
+C:\Users\Administrator\source\repos\OnlineHotelManagement\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.pdb
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.dll
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.DAL\obj\Debug\HotelManagementSystem.DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.BusinessLayer\bin\Debug\HotelManagementSystem.BusinessLayer.dll
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.BusinessLayer\bin\Debug\HotelManagementSystem.BusinessLayer.pdb
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.BusinessLayer\obj\Debug\HotelManagementSystem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.BusinessLayer\obj\Debug\HotelManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.BusinessLayer\obj\Debug\HotelManagementSystem.BusinessLayer.dll
+C:\Users\Administrator\source\repos\HotelManagementSystem\HotelManagementSystem.BusinessLayer\obj\Debug\HotelManagementSystem.BusinessLayer.pdb
